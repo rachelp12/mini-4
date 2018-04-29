@@ -1,10 +1,10 @@
 # mini-3
 
-This project is cloned from my previous repo: https://github.com/rachelp12/mini-2
+This project is cloned from my previous repo: https://github.com/rachelp12/mini-3
 
-To run the mini-3(FAQ) project
+To run the mini-4(FAQ) project
 
-1. git clone  https://github.com/rachelp12/mini-3.git
+1. git clone  https://github.com/rachelp12/mini-4.git
 
 2. CD into the project
 
